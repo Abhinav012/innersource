@@ -25,7 +25,7 @@
 ### Governance
 
 - [Measuring success](metrics/)
-- [Rollout checklist](rollout-checklist/)
+- [Rollout checklists](rollout-checklists/)
 
 
 This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
